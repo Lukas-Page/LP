@@ -5,10 +5,10 @@ Things
 
 ## Methods
 
-## Stuff
+## Results
 
-Modifications
+Good Results
 
-## More Stuff
+## Discussion
 
-More Lines
+Bad Results
