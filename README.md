@@ -1,8 +1,10 @@
 # LP
 Things
 
-## Intro
+## Introduction
 
 ## Methods
 
 ## Stuff
+
+Modifications
