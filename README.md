@@ -6,10 +6,11 @@ Things
 ## Methods
 
 How to not prepare Media
+How to prepare Media
 
 ## Results
 
-Bad Media Bad Results, Good Results
+Bad Media Bad Results, Good Media Good Results
 
 ## Discussion
 
